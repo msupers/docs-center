@@ -53,4 +53,14 @@
     /* Code inline */
     --code-inline-color                           : #ec4b0c;
     --code-inline-background                      : #ecf2fa;
+
+    /* Links */
+    --link-border-bottom                : ;
+    --link-border-bottom--hover         : ;
+    --link-color                        : ;
+    --link-color--hover                 : ;
+    --link-text-decoration              : underline;
+    --link-text-decoration--hover       : ;
+    --link-text-decoration-color        : #b4d5fe;
+    --link-text-decoration-color--hover : ;
 }
