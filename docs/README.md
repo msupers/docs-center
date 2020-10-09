@@ -12,6 +12,7 @@
 - [docker的从0到1](https://msupers.github.io/docker-notes/#/)
 
 ## ubuntu
-    - [ubuntu使用总结](https://msupers.github.io/ubuntu-notes)
+
+- [ubuntu使用总结](https://msupers.github.io/ubuntu-notes)
 
 
