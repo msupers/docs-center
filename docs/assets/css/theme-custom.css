@@ -57,10 +57,10 @@
     /* Links */
     --link-border-bottom                : ;
     --link-border-bottom--hover         : ;
-    --link-color                        : ;
-    --link-color--hover                 : ;
+    --link-color                        : #217ceb;
+    --link-color--hover                 : #217ceb;
     --link-text-decoration              : underline;
     --link-text-decoration--hover       : ;
-    --link-text-decoration-color        : #1220a1;
+    --link-text-decoration-color        : #1828b9;
     --link-text-decoration-color--hover : ;
 }
