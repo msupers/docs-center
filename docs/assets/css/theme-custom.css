@@ -55,12 +55,12 @@
     --code-inline-background                      : #ecf2fa;
 
     /* Links */
-    --link-border-bottom                : ;
-    --link-border-bottom--hover         : ;
+    --link-border-bottom                : #217ceb;
+    --link-border-bottom--hover         : #217ceb;
     --link-color                        : #217ceb;
     --link-color--hover                 : #217ceb;
     --link-text-decoration              : underline;
-    --link-text-decoration--hover       : ;
+    --link-text-decoration--hover       : #217ceb;
     --link-text-decoration-color        : #1828b9;
-    --link-text-decoration-color--hover : ;
+    --link-text-decoration-color--hover : #217ceb;
 }
